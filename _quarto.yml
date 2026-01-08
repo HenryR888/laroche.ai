@@ -3,20 +3,22 @@ project:
   output-dir: docs
 
 website:
-  description: "Personal blog with notes of AI, ML, Mathematics, Philosophy and Startups"
-  site-url: https://laroche.ai 
+  description: "Personal blog with notes on AI, ML, Mathematics, Philosophy, and Startups."
+  site-url: https://laroche.ai
   title: "LaRoche.ai"
   search: false
   navbar:
     left:
       - href: index.qmd
         text: Home
+      - href: about.qmd
+        text: About
     right:
-      - about.qmd
       - icon: github
-        href: https://github.com/
-      - icon: twitter
-        href: https://twitter.com
+        href: https://github.com/HenryR888
+      - icon: linkedin
+        href: https://www.linkedin.com/in/henry-rochester-11332b343/
+  
 format:
   html:
     theme:
@@ -24,5 +26,3 @@ format:
       - brand
     css: styles.css
     toc: true
-
-
