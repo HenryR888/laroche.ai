@@ -6,6 +6,7 @@ website:
   description: "Personal blog with notes of AI, ML, Mathematics, Philosophy and Startups"
   site-url: https://laroche.ai 
   title: "LaRoche.ai"
+  search: false
   navbar:
     left:
       - href: index.qmd
