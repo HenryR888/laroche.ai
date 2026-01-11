@@ -25,11 +25,11 @@ I am completing a triple major in Mathematics, Applied Mathematics, and Mathemat
 This blog reflects four pillars that shape my approach to learning and building:
 
 <span>Analytical: mathematical meticulousness, structure and logic.</span><br>
-<span>Technical: a desire to deeply understanding the mechanics of neural networks and reinforcement learning so I can design, evaluate, and build systems from first principles.</span><br>
+<span>Technical: a desire to deeply understand the mechanics of neural networks and reinforcement learning so I can design, evaluate, and build systems from first principles.</span><br>
 <span>Strategic: long-term thinking for building systems that last, fueled by the will to build a team through clarity of direction, shared purpose, stability, and trust.</span><br>
-<span>Philosophical: questioning our understanding, purpose, and truth, where we aim to create a future where growth arises through action and consequence, and where beliefs are tested rather than assumed.</span>
+<span>Philosophical: questioning our understanding, purpose, and truth, with the aim to create a future where growth arises through thoughtful action and consequence, and where beliefs are tested rather than assumed.</span>
 
-LaRoche, which means “rock” in French, represents the idea of something *solid formed under pressure*:  
+LaRoche, which means “rock” in French, represents the idea of something *solid and stable formed under pressure*:  
 disciplined, truth-seeking and resilient - like a summit reached through steady, incremental steps.
 
 Here, I write to refine ideas, challenge my assumptions, share my learning, and build the intellectual foundation needed to contribute meaningfully to the creation of intelligence.
